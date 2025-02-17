@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Ali Kilic/Desktop/Chess_Tournament/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++11 -o CMakeFiles\\Chess_Tournament.dir\\src\\main.cpp.obj -c \"C:\\Users\\Ali Kilic\\Desktop\\Chess_Tournament\\src\\main.cpp\"",
+  "file": "C:/Users/Ali Kilic/Desktop/Chess_Tournament/src/main.cpp",
+  "output": "CMakeFiles/Chess_Tournament.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ali Kilic/Desktop/Chess_Tournament/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++11 -o CMakeFiles\\Chess_Tournament.dir\\src\\Player.cpp.obj -c \"C:\\Users\\Ali Kilic\\Desktop\\Chess_Tournament\\src\\Player.cpp\"",
+  "file": "C:/Users/Ali Kilic/Desktop/Chess_Tournament/src/Player.cpp",
+  "output": "CMakeFiles/Chess_Tournament.dir/src/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ali Kilic/Desktop/Chess_Tournament/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -std=gnu++11 -o CMakeFiles\\Chess_Tournament.dir\\src\\Tournament.cpp.obj -c \"C:\\Users\\Ali Kilic\\Desktop\\Chess_Tournament\\src\\Tournament.cpp\"",
+  "file": "C:/Users/Ali Kilic/Desktop/Chess_Tournament/src/Tournament.cpp",
+  "output": "CMakeFiles/Chess_Tournament.dir/src/Tournament.cpp.obj"
+}
+]

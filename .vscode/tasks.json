@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build and run ChessTournament",
+            "type": "shell",
+            "command": "${workspaceFolder}/build/Chess_Tournament.exe",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "dependsOn": "CMake: build"
+        }
+    ]
+}
