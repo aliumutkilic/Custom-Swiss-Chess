@@ -4,17 +4,7 @@
 
 ## Project Structure
 
-Custom-Swiss-Chess/
-├── CMakeLists.txt       # CMake build configuration
-├── build/               # Directory where the build output is stored
-├── src/                 # Source code directory
-│   ├── Player.cpp       # Implementation of the Player struct
-│   ├── Player.h         # Header for the Player struct
-│   ├── Tournament.cpp   # Implementation of the Tournament handling, pairings etc.
-│   ├── Tournament.h     # Header for the Tournament 
-│   └── main.cpp         # Entry point of the application
-├── .vscode/             # Visual Studio Code settings
-
+Custom-Swiss-Chess/ ├── CMakeLists.txt # CMake build configuration ├── build/ # Directory where the build output is stored ├── src/ # Source code directory │ ├── Player.cpp # Implementation of the Player struct │ ├── Player.h # Header for the Player struct │ ├── Tournament.cpp # Implementation of the Tournament handling, pairings etc. │ ├── Tournament.h # Header for the Tournament │ └── main.cpp # Entry point of the application ├── .vscode/ # Visual Studio Code settings
 
 ## Requirements
 
