@@ -1,3 +1,0 @@
-C:/Users/Ali Kilic/Desktop/Chess_Tournament/build/CMakeFiles/Chess_Tournament.dir
-C:/Users/Ali Kilic/Desktop/Chess_Tournament/build/CMakeFiles/edit_cache.dir
-C:/Users/Ali Kilic/Desktop/Chess_Tournament/build/CMakeFiles/rebuild_cache.dir
